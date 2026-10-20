@@ -1,0 +1,51 @@
+1
+00:00:00,120 --> 00:00:07,922
+Hi. This is Explainer Studio, and today it is explaining itself. You give it some text, and it gives you back a narrated video.
+
+2
+00:00:08,662 --> 00:00:17,671
+Explainer Studio is a small Windows app. You paste in source text, and it writes a script, draws the slides, records a voice and builds the video.
+
+3
+00:00:17,871 --> 00:00:21,424
+The writing and the voices can run entirely on your own computer.
+
+4
+00:00:22,120 --> 00:00:28,366
+First, a writing model running on your machine turns the source into a script. Then the slides are drawn from that script.
+
+5
+00:00:28,546 --> 00:00:35,199
+Next, a voice reads every slide. Finally, FFmpeg joins the pictures and the voice into one video.
+
+6
+00:00:35,912 --> 00:00:44,573
+There are two kinds of template. Designed templates look at what each slide says, and choose a layout to match, such as steps, a comparison or one big statement.
+
+7
+00:00:44,753 --> 00:00:49,060
+Classic templates, versus that, keep the same layout on every slide.
+
+8
+00:00:49,745 --> 00:00:55,248
+The studio works in English, Arabic and Farsi, and right-to-left slides are drawn the right way round.
+
+9
+00:00:55,428 --> 00:01:03,091
+Every slide ends with a different transition, and each one drifts slowly while it is on screen. If you prefer plain cuts, you can turn that off.
+
+10
+00:01:03,787 --> 00:01:09,638
+You do not have to trust the draft. The storyboard lets you edit every heading, key point and spoken sentence.
+
+11
+00:01:09,818 --> 00:01:14,404
+You can set the pause and the feeling of each segment, and render the video when you are ready.
+
+12
+00:01:15,120 --> 00:01:21,436
+That is the whole idea. Paste some text, review the storyboard, and let the studio make the video.
+
+13
+00:01:21,636 --> 00:01:22,843
+Thanks for watching.

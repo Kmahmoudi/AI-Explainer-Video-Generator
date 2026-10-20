@@ -1,0 +1,12 @@
+.runtime/
+.venv/
+models/
+projects/
+__pycache__/
+*.pyc
+*.zip
+*.part
+.env
+.claude/
+fonts/
+*-preview/

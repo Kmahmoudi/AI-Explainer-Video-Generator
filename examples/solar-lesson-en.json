@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "language": "en",
+  "title": "Solar energy, explained",
+  "footer": "Explainer Studio",
+  "slides": [
+    {"title": "From sunlight to useful energy", "bullets": ["Explore the parts of a solar system", "Follow energy from generation to storage", "Compare two ways to use the output"], "segments": [{"text": "Solar panels turn sunlight into electricity. This lesson follows the energy through the system and explains the role of storage.", "emotion": "warm", "pause_ms": 200}]},
+    {"title": "Store energy for later", "bullets": ["A battery stores energy", "Stored energy can be used when sunlight is unavailable"], "segments": [{"text": "The battery stores energy for later use. It can supply stored energy when sunlight is unavailable.", "emotion": "confident", "pause_ms": 200}]},
+    {"title": "Follow the energy: three steps", "bullets": ["Panels convert sunlight into electricity", "An inverter changes the current", "Appliances use the electricity"], "segments": [{"text": "First, the panels convert sunlight into electricity. Then the inverter changes the current. Finally, appliances use the electricity.", "emotion": "curious", "pause_ms": 200}]},
+    {"title": "Use now versus store for later", "bullets": ["Direct use supplies appliances while energy is being generated", "Battery storage keeps energy for later use"], "segments": [{"text": "Direct use supplies appliances while energy is generated, whereas a battery stores energy for later. The two roles are different.", "emotion": "confident", "pause_ms": 200}]},
+    {"title": "A worked example", "bullets": ["In this hypothetical example, 20% of the generated energy is stored", "The remaining energy is used immediately", "Actual shares depend on the system and its use"], "segments": [{"text": "Consider a hypothetical example in which 20% of the generated energy is stored. The rest is used immediately. This is an illustration, not a measured result or a typical performance claim.", "emotion": "reflective", "pause_ms": 200}]},
+    {"title": "Connect the parts", "bullets": ["Explain how panels, an inverter and a battery differ", "Trace energy through the system", "Practise distinguishing direct use from stored energy"], "segments": [{"text": "To practise, explain the role of each part in your own words. Then trace the path of the energy and distinguish direct use from storage.", "emotion": "warm", "pause_ms": 200}]}
+  ]
+}
